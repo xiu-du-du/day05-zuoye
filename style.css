@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+.pt{
+    
+    background-color: rgb(102, 102, 102);
+    height:30px ;
+    width: 400px;
+    color: white;
+}
+
+span{
+    color: rebeccapurple;
+
+}
+.gl{
+        
+    background-color: black;
+    border:1px solid red;  
+    color: white;  
+    text-indent: 2em;
+    width: 300px;
+}
